@@ -1,4 +1,5 @@
 # -Modern-control-theory
+编程方式MATLAB
 程序对应功能： zhuangtaifangchengqiujie%状态方程求解 
 chuandihanshu%根据状态方程求解传递函数 
 duijiaoxing%化为对角标准型,QP有多种取值，J只有有限种 
